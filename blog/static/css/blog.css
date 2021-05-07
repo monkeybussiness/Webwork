@@ -7,7 +7,6 @@
     height: 720px;
 }
 
-
 .Header{
     background-color: #6633FF;
     padding: 20px 20px 20px 20px;
@@ -30,11 +29,6 @@
     display: inline;
     padding-right: 20px;
 }
-
-
-
-
-
 .Main{
     background: linear-gradient(to top, #5A009D,#6633FF);
     padding: 200px 20px 20px 20px;
@@ -43,11 +37,6 @@
     font-size: 50px;
     height: 80%;
 }
-
-
-
-
-
 .Footer{
     background-color: black;
     color: white;

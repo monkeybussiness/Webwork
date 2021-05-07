@@ -37,6 +37,15 @@
     font-size: 50px;
     height: 80%;
 }
+.content-2 {
+    background: linear-gradient(to top,black,#5A009D);
+    padding: 200px 20px 20px 20px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    height: 80%;
+}
+
 .Footer{
     background-color: black;
     color: white;

@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+    font-family: 'Teko'
+
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.Header {
+    background-color: #6633FF;
+    color : white;
+    height: 100px;
+
+    
+}
+.Header a{
+    text-decoration: none;
+    color: white;
+}
+.Header h1{
+    float: left;
+    margin: 0;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.Menu{
+     
+     margin: 0;
+     padding: 0;
+     float: right;
+     font-size: 30px;
+
+     
+}
+.Menu a{
+text-decoration: none;
+color: white;
+display: inline-block;
+padding: 10px 20px;
+background-color: #6633FF;
+
+  
+}
+.Menu li{
+    display: inline;
+}
+
+.Header-1{
+    padding: 150px 10px 10px 10px;
+    background-color: #6633FF;
+    color: white;
+    text-align: center;
+    height: 400px;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+.Footer{
+    background-color: black;
+    height: 130px;
+    color: white;
+    font-size: 25px;
+    padding:0px;
+    margin: 0px;
+    text-align: center;
+    padding-top: 80px;
+}

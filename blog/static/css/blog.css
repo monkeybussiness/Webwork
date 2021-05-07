@@ -29,7 +29,7 @@
     display: inline;
     padding-right: 20px;
 }
-.Main{
+.content {
     background: linear-gradient(to top, #5A009D,#6633FF);
     padding: 200px 20px 20px 20px;
     text-align: center;

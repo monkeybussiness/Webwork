@@ -1,67 +1,57 @@
-body{
-    margin: 0px;
-    font-family: 'Teko'
-
-}
-* {
-    margin: 0;
+*{
     padding: 0;
+    margin: 0;
+    font-family: 'Teko'
 }
-.Header {
-    background-color: #6633FF;
-    color : white;
-    height: 100px;
+.Page{
+    height: 720px;
+}
 
+
+.Header{
+    background-color: #6633FF;
+    padding: 20px 20px 20px 20px;
     
 }
-.Header a{
-    text-decoration: none;
-    color: white;
-}
 .Header h1{
-    float: left;
-    margin: 0;
-    padding-left: 30px;
-    padding-top: 10px;
-}
-.Menu{
-     
-     margin: 0;
-     padding: 0;
-     float: right;
-     font-size: 30px;
-
-     
-}
-.Menu a{
-text-decoration: none;
-color: white;
-display: inline-block;
-padding: 10px 20px;
-background-color: #6633FF;
-
-  
-}
-.Menu li{
+    font-size: 50px;
     display: inline;
 }
-
-.Header-1{
-    padding: 150px 10px 10px 10px;
-    background-color: #6633FF;
-    color: white;
-    text-align: center;
-    height: 400px;
-    font-size: 30px;
-    margin-bottom: 0px;
+.Header a{
+    color : white;
+    text-decoration: none;
 }
+.Header ul{
+    display: inline;
+    float: right;
+    font-size: 50px;
+}
+.Header li{
+    display: inline;
+    padding-right: 20px;
+}
+
+
+
+
+
+.Main{
+    background: linear-gradient(to top, #5A009D,#6633FF);
+    padding: 200px 20px 20px 20px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    height: 80%;
+}
+
+
+
+
+
 .Footer{
     background-color: black;
-    height: 130px;
     color: white;
-    font-size: 25px;
-    padding:0px;
-    margin: 0px;
     text-align: center;
-    padding-top: 80px;
-}
+    font-size: 30px;
+    padding-top: 150px;
+    height: 20%;

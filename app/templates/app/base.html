@@ -1,0 +1,21 @@
+{%load static%}
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="{% static 'css/style.css' %}">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap" rel="stylesheet">
+	<title>Webwork | Ваше личное веб-пространство</title>
+</head>
+<body>
+
+	<div class = "Page">
+
+		<div class = "Header">
+			<h1><a href=" / ">WEBWORK</a></h1>
+			{% block content %}
+			{% endblock %}
+		</div>
+	</div>
+</body>
+</html>
